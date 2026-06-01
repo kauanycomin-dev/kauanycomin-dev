@@ -6,7 +6,7 @@ Venho do marketing e da gestão de redes sociais — agora estou aprendendo a co
 ---
 
 **🎓 Formação**
-- Análise e Desenvolvimento de Sistemas — Infnet (em curso)
+- Engenharia de Software — Instituto Infnet (em curso)
 
 **💻 Aprendendo agora**
 - Python
