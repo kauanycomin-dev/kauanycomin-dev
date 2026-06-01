@@ -1,16 +1,24 @@
-## Hi there 👋
+### Olá, eu sou a Kauany 🌱
 
-<!--
-**kauanycomin-dev/kauanycomin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software em transição para a área de tech.  
+Venho do marketing e agora estou aprendendo a construir as ferramentas que sempre usei.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎓 Formação**
+- Engenharia de Software — Instituto Infnet (em curso)
+
+**💻 Aprendendo agora**
+- Python
+- SQL
+- Git & GitHub
+- Lógica de programação
+
+**🌐 Áreas de interesse**
+- Desenvolvimento de software
+- Automação
+- Cibersegurança
+
+---
+
+*"Dev em construção | commit por commit."* 🚀
