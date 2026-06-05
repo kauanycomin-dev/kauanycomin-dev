@@ -1,8 +1,8 @@
 ### Oi, eu sou a Kauany 👋
 
-Marketing em transição pra tech — não porque desisti, mas porque quero construir as ferramentas que sempre usei.
+Marketing em transição pra tech. Não porque desisti, mas porque quero construir as ferramentas que sempre usei.
 
-Estudo Análise e Desenvolvimento de Sistemas na Infnet enquanto trabalho com marketing em uma empresa da família. Na prática, isso significa que escrevo Python de manhã e analiso métricas de tarde.
+Estudo Engenharia de Software na Infnet enquanto trabalho com marketing. Na prática, isso significa que escrevo Python de manhã e analiso métricas de tarde.
 
 Não estou aqui só pelos commits. Estou aqui porque acredito que tecnologia com propósito é mais poderosa do que tecnologia pelo dinheiro.
 
@@ -21,7 +21,7 @@ Não estou aqui só pelos commits. Estou aqui porque acredito que tecnologia com
 
 **🎓 Formação**
 
-Análise e Desenvolvimento de Sistemas — Infnet *(em curso, 2026)*
+Engenharia de Software — Infnet *(em curso, 2026)*
 
 ---
 
@@ -32,9 +32,8 @@ Landing page institucional para um podcast e comunidade de acolhimento para mulh
 
 ---
 
-**📍** Joinville, SC — Brasil
+**📍** Santa Catarina — Brasil
 
-[![Instagram](https://img.shields.io/badge/@kauanycomin-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kauanycomin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauanycomin)
 
 ---
