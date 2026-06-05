@@ -28,11 +28,11 @@ Engenharia de Software — Infnet *(em curso, 2026)*
 **🚀 Em destaque**
 
 **[Após o Silêncio — Landing Page](https://github.com/kauanycomin-dev/apososilencio-landing)**
-Landing page institucional para um podcast e comunidade de acolhimento para mulheres em situação de violência doméstica. Desenvolvida com HTML, CSS e WordPress/Elementor — do zero, com responsividade e identidade visual própria.
+Landing page institucional para um podcast e comunidade de acolhimento para mulheres em situação de violência doméstica. Desenvolvida com HTML, CSS e WordPress/Elementor - do zero, com responsividade e identidade visual própria.
 
 ---
 
-**📍** Santa Catarina — Brasil
+**📍** Santa Catarina - Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauanycomin)
 
