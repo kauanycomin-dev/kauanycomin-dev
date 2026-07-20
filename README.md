@@ -48,7 +48,3 @@ Engenharia de Software — Infnet *(em curso, 2026)*
 **📍** Santa Catarina - Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauanycomin)
-
----
-
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kauanycomin-dev&show_icons=true&theme=dark&hide_border=true&bg_color=141414&title_color=F07814&icon_color=F07814&text_color=DCDCDC)](https://github.com/kauanycomin-dev)
