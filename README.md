@@ -1,5 +1,3 @@
-[![Visitantes do perfil](https://api.visitorbadge.io/api/visitors?path=github.com%2Fkauanycomin-dev&label=profile%20views&labelColor=%236c00006c&countColor=%23151515)](https://github.com/kauanycomin-dev)
-
 ### Oi, eu sou a Kauany 👋
 
 ![gif](https://giffiles.alphacoders.com/121/12113.gif)
