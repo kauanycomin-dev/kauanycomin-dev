@@ -51,4 +51,4 @@ Engenharia de Software — Infnet *(em curso, 2026)*
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauanycomin-dev&show_icons=true&theme=dark&hide_border=true&bg_color=141414&title_color=F07814&icon_color=F07814&text_color=DCDCDC)](https://github.com/kauanycomin-dev)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kauanycomin-dev&show_icons=true&theme=dark&hide_border=true&bg_color=141414&title_color=F07814&icon_color=F07814&text_color=DCDCDC)](https://github.com/kauanycomin-dev)
